@@ -28,6 +28,8 @@ http://api.openweathermap.org/geo/1.0/direct?q=城市名&limit=1&appid=你的KEY
 
 ## 功能特点
 
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5b86189858d1405db961c3223f85d3a7.gif)
+
 - 输入城市名称（支持中文或英文，如 "Beijing" 或 "Shanghai,CN"）
 - 以下为获取地理数据返回 经纬度
 
