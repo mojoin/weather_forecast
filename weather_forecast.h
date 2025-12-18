@@ -28,7 +28,7 @@ private:
     Ui::weather_forecastClass *ui;
     QNetworkAccessManager* geoManager;
     QNetworkAccessManager* weatherManager;
-    QString apiKey = "ba51ed96460fb987ceb3529056a2fcb5";
+    QString apiKey = "请输入你自己的api";
 
     QString weatherDescription(int code);  // WMO天气代码转描述
     QString cityName;                      // 城市名
