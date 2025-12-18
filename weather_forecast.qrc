@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/weather_forecast">
+        <file>icon/1_1.png</file>
+    </qresource>
+</RCC>
